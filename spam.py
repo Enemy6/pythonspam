@@ -16,7 +16,7 @@ headers = {
 
 data = {
     "userId": 12314048, # your user id
-    "subject": "",
+    "subject": "Important",
     "body": Hello there, Kreek AKA Forest. I am a hacker. I work with Terror3096 I can't say my username or it will get censored (because chat filter sucks)",
     "recipientId": 140258990 # recipient's user Id
 }
